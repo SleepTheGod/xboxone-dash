@@ -11,7 +11,7 @@ se voce pode imaginar... então pode fazer
 
 
 
-Dashboard Original
+dashboard original
 
  <img src="https://user-images.githubusercontent.com/70982672/165144163-43a2f49d-455c-4588-a84f-1129dc968cb7.jpg"/>
 
@@ -20,7 +20,7 @@ Dashboard Original
 
 
 
-e o resultado final, Dashboard em html, css e javascript
+e o resultado final, dashboard em html, css e javascript
 
  <img src="https://user-images.githubusercontent.com/70982672/165144284-4ca272cc-f41b-4b5a-af0b-7203767c65b4.png"/>
 
