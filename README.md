@@ -1,5 +1,5 @@
 # xboxone-dash
-dashboard do xbox one feito em html, csse javascript
+dashboard do xbox one feito em html, css e javascript
 
 sou desenvolvedor front-end jr e este é meu grande projeto, por incrivel que pareça feito de modo simples mas com dedicaçao e vontade de aprender, fiz ele ficar perfeito e bem estruturado
 
