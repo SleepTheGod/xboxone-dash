@@ -31,7 +31,7 @@ body{
   font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: var(--normal-font-size);
   transition: .5s;
-  background-image: url(/assets/images/brazil.jpeg);
+  background-image: url(/720/assets/images/brazil.jpeg);
   background-position: inherit;
   background-size: cover;
   background-repeat: no-repeat;
